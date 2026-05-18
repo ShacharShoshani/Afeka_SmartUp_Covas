@@ -1,0 +1,4 @@
+{
+  "mcp": "aws",
+  "token": "${AWS_TOKEN}"
+}
